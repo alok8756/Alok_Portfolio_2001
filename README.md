@@ -9,4 +9,4 @@ Technologies used :
 - JavaScript
 
 
-Link: [Click here](https://alok-maddheshiya0010-portfolio.netlify.app/)
+Link: [Click here](https://alok-maddheshiya-portfolio-2001.netlify.app/)
