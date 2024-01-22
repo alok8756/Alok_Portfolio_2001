@@ -1,7 +1,7 @@
 # ALOK portfolio 📄
 It is a personal portfolio website  
 
-![Demo](https://github.com/alok8756/Alok_Portfolio/blob/main/image.png)
+![Demo](https://github.com/alok8756/Alok_Portfolio_2001/blob/main/Demo.png)
 
 Technologies used : 
 - HTML
